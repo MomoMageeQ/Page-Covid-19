@@ -1,0 +1,86 @@
+body{
+          margin: 5vh;
+}
+ 
+ header {
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          cursor: pointer;
+          margin-top: 10px;
+}
+#image{
+          width: 150px;
+          border: 3px solid #ccc;
+          height: 100px;
+}
+.alignement{
+          display: flex;
+          list-style: none;
+          
+}
+a{
+          margin-left: 10px;
+          text-decoration: none;
+          color: black;
+          font-weight: bold;
+}
+.partie2{
+          background-color: blue;
+          padding: 2%;
+}
+h2{
+          margin-left: 80%;
+          color: white;
+          cursor: pointer;
+}
+fieldset{
+          width: 50vh;
+          position: relative;
+          background-color: white;
+          margin-left: 7vh;
+          bottom: 4vh;
+          height: 70vh;
+          
+}
+.color{
+          background-color:orange ;
+          height: 70vh;
+}
+button{
+          position: relative;
+          color: white;
+          background-color: blue;
+          margin-left: 38vh;
+          cursor: pointer;
+}
+#different{
+          color: blue;
+}
+h3 {
+          text-align: center;
+          color: blue;
+}
+p{
+          text-align: center;
+
+}
+.icon{
+          display: flex;
+          margin-left: 19vh;
+          margin-bottom: 12vh;
+          cursor: pointer;
+}
+.numero{
+          width: 4vh;
+          margin: left;
+}
+#bleu{
+          color: blue;
+}
+.cote {
+      margin-left: 100vh;
+      width: 60vh;
+      position: relative;
+      bottom: 60vh;
+}
